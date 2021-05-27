@@ -11,15 +11,11 @@
 */
 @font-face {
   font-family: "Ionicons";
-  src: url("https://vahnzoel.github.io/Exts/WebTemplates-Assets/CI4AdminLTE3/dist/font/ionicons.eot");
-  src: url("https://vahnzoel.github.io/Exts/WebTemplates-Assets/CI4AdminLTE3/dist/font/ionicons1.eot")
-      format("embedded-opentype"),
-    url("https://vahnzoel.github.io/Exts/WebTemplates-Assets/CI4AdminLTE3/dist/font/ionicons.ttf")
-      format("truetype"),
-    url("https://vahnzoel.github.io/Exts/WebTemplates-Assets/CI4AdminLTE3/dist/font/ionicons.woff")
-      format("woff"),
-    url("https://vahnzoel.github.io/Exts/WebTemplates-Assets/CI4AdminLTE3/dist/font/ionicons.svg")
-      format("svg");
+  src: url("/dist/font/ionicons.eot");
+  src: url("/dist/font/ionicons1.eot") format("embedded-opentype"),
+    url("/dist/font/ionicons.ttf") format("truetype"),
+    url("/dist/font/ionicons.woff") format("woff"),
+    url("/dist/font/ionicons.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
